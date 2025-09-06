@@ -1,0 +1,14 @@
+git init
+git add .
+git add README.md
+git commit -m "Primeiro Commit"
+git remote add origin https://github.com/F3rnando897/Teste.git
+git push -u origin main
+
+Para salvar:
+git add .
+git commit 
+
+git remote add origin https://github.com/F3rnando897/Teste.git
+git branch -M main
+git push -u origin main
